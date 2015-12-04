@@ -8,4 +8,14 @@
         android:orderInCategory="100" android:showAsAction="never" />
     <item android:id="@+id/action_scanWiFi" android:title="@string/scan_wifi"
         android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_getLoc1" android:title="@string/loc1"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_getLoc2" android:title="@string/loc2"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_check141" android:title="@string/check141"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_owncheck141" android:title="@string/owncheck141"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_accelerometer" android:title="@string/accelerometer"
+        android:orderInCategory="100" android:showAsAction="never" />
 </menu>

@@ -4,4 +4,9 @@
     <string name="list_sensors">List all Sensors</string>
     <string name="list_wifi">Wi-Fi fingerprint</string>
     <string name="scan_wifi">Scan Wi-Fi</string>
+    <string name="loc1">Get location 1</string>
+    <string name="loc2">Get location 2</string>
+    <string name="check141">Check 141</string>
+    <string name="owncheck141">Check 141 from own data</string>
+    <string name="accelerometer">Use accelerometer</string>
 </resources>

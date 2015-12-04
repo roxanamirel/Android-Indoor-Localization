@@ -1,0 +1,719 @@
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-48
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-50
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-62
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-61
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-47
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-70
+BSSID,24:01:c7:77:f4:7f,SSID,aalto,level,-61
+BSSID,24:01:c7:77:f4:7d,SSID,eduroam,level,-61
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-68
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-69
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-84
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-71
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-68
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-70
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-83
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-76
+BSSID,00:27:0d:2e:f2:82,SSID,eduroam,level,-74
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-72
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-81
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-83
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-82
+BSSID,00:27:0d:2d:d0:70,SSID,aalto,level,-72
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-87
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-82
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-87
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-83
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-48
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-70
+BSSID,a4:56:30:e8:17:60,SSID,aalto,level,-80
+BSSID,00:27:0d:2d:d0:7f,SSID,aalto,level,-87
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-88
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-84
+BSSID,f4:4e:05:43:ca:b2,SSID,eduroam,level,-84
+BSSID,a0:cf:5b:fa:34:ed,SSID,eduroam,level,-90
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-81
+BSSID,a4:56:30:e8:17:6e,SSID,aalto open,level,-86
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-86
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-48
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-50
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-62
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-61
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-47
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-70
+BSSID,24:01:c7:77:f4:7f,SSID,aalto,level,-61
+BSSID,24:01:c7:77:f4:7d,SSID,eduroam,level,-61
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-68
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-69
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-84
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-71
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-68
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-70
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-83
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-76
+BSSID,00:27:0d:2e:f2:82,SSID,eduroam,level,-74
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-72
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-81
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-83
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-82
+BSSID,00:27:0d:2d:d0:70,SSID,aalto,level,-72
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-87
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-82
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-87
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-83
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-48
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-70
+BSSID,a4:56:30:e8:17:60,SSID,aalto,level,-80
+BSSID,00:27:0d:2d:d0:7f,SSID,aalto,level,-87
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-88
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-84
+BSSID,f4:4e:05:43:ca:b2,SSID,eduroam,level,-84
+BSSID,a0:cf:5b:fa:34:ed,SSID,eduroam,level,-90
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-81
+BSSID,a4:56:30:e8:17:6e,SSID,aalto open,level,-86
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-86
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-68
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-52
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-69
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-64
+BSSID,24:01:c7:77:f4:7f,SSID,aalto,level,-77
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-65
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-63
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-64
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-63
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-54
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-86
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,00:27:0d:2e:f2:82,SSID,eduroam,level,-74
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-67
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:70,SSID,aalto,level,-74
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-78
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-77
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,00:27:0d:2d:d0:7f,SSID,aalto,level,-75
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-83
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-78
+BSSID,f4:4e:05:43:ca:b2,SSID,eduroam,level,-81
+BSSID,a0:cf:5b:fa:34:ed,SSID,eduroam,level,-85
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-77
+BSSID,a4:56:30:e8:17:6e,SSID,aalto open,level,-84
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-77
+BSSID,00:27:0d:2e:f2:8f,SSID,aalto,level,-74
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-73
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-76
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-76
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-84
+BSSID,a0:cf:5b:ca:b0:3f,SSID,aalto,level,-85
+BSSID,a0:cf:5b:fa:34:e0,SSID,aalto,level,-85
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-87
+BSSID,a0:cf:5b:fa:34:e2,SSID,eduroam,level,-90
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-70
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-80
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-82
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-87
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-87
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-89
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-75
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-72
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-56
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-69
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-63
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-63
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-65
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-65
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-78
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-64
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-51
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-90
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-67
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-62
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-78
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-82
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-75
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-76
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-73
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-74
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-87
+BSSID,08:1f:f3:b2:d0:a0,SSID,aalto,level,-63
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-74
+BSSID,00:27:0d:2d:dd:c0,SSID,aalto,level,-71
+BSSID,24:01:c7:77:f4:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-73
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,a4:56:30:e8:17:60,SSID,aalto,level,-76
+BSSID,24:01:c7:b8:d4:e2,SSID,eduroam,level,-76
+BSSID,a4:56:30:e8:17:6f,SSID,aalto,level,-83
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-87
+BSSID,00:27:0d:08:bf:1f,SSID,aalto,level,-88
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-88
+BSSID,24:01:c7:b8:d4:ef,SSID,aalto,level,-89
+BSSID,a0:cf:5b:ca:b0:30,SSID,aalto,level,-85
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-90
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-92
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-69
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-78
+BSSID,00:27:0d:0b:d1:c1,SSID,aalto open,level,-80
+BSSID,a0:cf:5b:ca:b0:3e,SSID,aalto open,level,-89
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-75
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-72
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-56
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-69
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-63
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-63
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-65
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-65
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-78
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-64
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-51
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-90
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-67
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-62
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-78
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-82
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-75
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-76
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-73
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-74
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-87
+BSSID,08:1f:f3:b2:d0:a0,SSID,aalto,level,-63
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-74
+BSSID,00:27:0d:2d:dd:c0,SSID,aalto,level,-71
+BSSID,24:01:c7:77:f4:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-73
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,a4:56:30:e8:17:60,SSID,aalto,level,-76
+BSSID,24:01:c7:b8:d4:e2,SSID,eduroam,level,-76
+BSSID,a4:56:30:e8:17:6f,SSID,aalto,level,-83
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-87
+BSSID,00:27:0d:08:bf:1f,SSID,aalto,level,-88
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-88
+BSSID,24:01:c7:b8:d4:ef,SSID,aalto,level,-89
+BSSID,a0:cf:5b:ca:b0:30,SSID,aalto,level,-85
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-90
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-92
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-69
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-78
+BSSID,00:27:0d:0b:d1:c1,SSID,aalto open,level,-80
+BSSID,a0:cf:5b:ca:b0:3e,SSID,aalto open,level,-89
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-75
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-72
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-56
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-69
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-63
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-63
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-65
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-65
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-78
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-64
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-51
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-90
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-67
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-62
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-78
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-82
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-75
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-76
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-73
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-74
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-87
+BSSID,08:1f:f3:b2:d0:a0,SSID,aalto,level,-63
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-74
+BSSID,00:27:0d:2d:dd:c0,SSID,aalto,level,-71
+BSSID,24:01:c7:77:f4:7d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-73
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,a4:56:30:e8:17:60,SSID,aalto,level,-76
+BSSID,24:01:c7:b8:d4:e2,SSID,eduroam,level,-76
+BSSID,a4:56:30:e8:17:6f,SSID,aalto,level,-83
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-87
+BSSID,00:27:0d:08:bf:1f,SSID,aalto,level,-88
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-88
+BSSID,24:01:c7:b8:d4:ef,SSID,aalto,level,-89
+BSSID,a0:cf:5b:ca:b0:30,SSID,aalto,level,-85
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-90
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-92
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-69
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-78
+BSSID,00:27:0d:0b:d1:c1,SSID,aalto open,level,-80
+BSSID,a0:cf:5b:ca:b0:3e,SSID,aalto open,level,-89
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-70
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-67
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-61
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-70
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-65
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-60
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-67
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-66
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-73
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-66
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-56
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-71
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-61
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-77
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-80
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-78
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-80
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-73
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-72
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-74
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-78
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-73
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-73
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-87
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-72
+BSSID,00:27:0d:2d:dd:c0,SSID,aalto,level,-69
+BSSID,24:01:c7:b8:d4:e2,SSID,eduroam,level,-77
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-87
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-85
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-96
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-81
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-72
+BSSID,00:27:0d:2d:d0:7f,SSID,aalto,level,-73
+BSSID,00:27:0d:2e:f2:8f,SSID,aalto,level,-74
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-71
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-72
+BSSID,24:01:c7:77:f4:7f,SSID,aalto,level,-78
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-82
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-83
+BSSID,a0:cf:5b:ca:b0:3f,SSID,aalto,level,-88
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-89
+BSSID,a0:cf:5b:fa:34:ed,SSID,eduroam,level,-89
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-77
+BSSID,a4:56:30:e8:17:6e,SSID,aalto open,level,-83
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-83
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-86
+BSSID,00:27:0d:0b:d1:ce,SSID,aalto open,level,-89
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-68
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-61
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-69
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-62
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-63
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-63
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-67
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-80
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-63
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-59
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-77
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-80
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-82
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-74
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-72
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-82
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-73
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-75
+BSSID,24:01:c7:b8:d4:e2,SSID,eduroam,level,-76
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-77
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-75
+BSSID,00:27:0d:2d:d0:7f,SSID,aalto,level,-75
+BSSID,00:27:0d:2e:f2:8f,SSID,aalto,level,-75
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-71
+BSSID,24:01:c7:77:f4:7f,SSID,aalto,level,-76
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-80
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-81
+BSSID,a0:cf:5b:ca:b0:3f,SSID,aalto,level,-88
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-86
+BSSID,a0:cf:5b:fa:34:ed,SSID,eduroam,level,-87
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-76
+BSSID,a4:56:30:e8:17:6e,SSID,aalto open,level,-87
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-82
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-87
+BSSID,00:27:0d:0b:d1:ce,SSID,aalto open,level,-88
+BSSID,00:27:0d:2e:f2:82,SSID,eduroam,level,-72
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-76
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-82
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,f4:4e:05:43:ca:b0,SSID,aalto,level,-84
+BSSID,ea:1e:e7:6c:d6:43,SSID,iPhone (NK),level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-92
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-70
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-88
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-88
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-73
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-68
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-60
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-66
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-61
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-57
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-64
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-65
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-64
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-67
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-63
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-77
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-73
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-83
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-81
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-76
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-73
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-76
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-77
+BSSID,24:01:c7:77:f4:7e,SSID,aalto open,level,-85
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:d0:7f,SSID,aalto,level,-75
+BSSID,00:27:0d:2e:f2:8f,SSID,aalto,level,-76
+BSSID,24:01:c7:77:f4:7f,SSID,aalto,level,-86
+BSSID,a0:cf:5b:fa:34:ed,SSID,eduroam,level,-83
+BSSID,a4:56:30:e8:17:6e,SSID,aalto open,level,-83
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-83
+BSSID,00:27:0d:2e:f2:82,SSID,eduroam,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-79
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-70
+BSSID,a0:cf:5b:fa:34:e1,SSID,aalto open,level,-87
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-54
+BSSID,08:1f:f3:b2:d0:a0,SSID,aalto,level,-65
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-73
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-76
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-79
+BSSID,00:27:0d:08:bf:12,SSID,eduroam,level,-80
+BSSID,24:01:c7:77:f4:7d,SSID,eduroam,level,-85
+BSSID,a0:cf:5b:ca:b0:3d,SSID,eduroam,level,-86
+BSSID,24:01:c7:b8:d4:e0,SSID,aalto,level,-82
+BSSID,a4:56:30:e8:17:60,SSID,aalto,level,-82
+BSSID,00:27:0d:0b:d1:c0,SSID,aalto,level,-83
+BSSID,f4:4e:05:43:ca:bf,SSID,aalto,level,-88
+BSSID,a0:cf:5b:ca:b0:30,SSID,aalto,level,-85
+BSSID,a0:cf:5b:fa:34:e2,SSID,eduroam,level,-88
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-76
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-80
+BSSID,a0:cf:5b:fa:34:ee,SSID,aalto open,level,-86
+BSSID,f4:4e:05:43:ca:b1,SSID,aalto open,level,-86
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-74
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-70
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-61
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-69
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-65
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-60
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-66
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-67
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-63
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-66
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-56
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-78
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-72
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-80
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-74
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-83
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-74
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-75
+BSSID,00:27:0d:2e:f2:8f,SSID,aalto,level,-75
+BSSID,00:27:0d:2e:f2:82,SSID,eduroam,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-81
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-71
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-57
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-75
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-75
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-66
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-83
+BSSID,24:01:c7:b8:d4:e2,SSID,eduroam,level,-79
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-84
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-84
+BSSID,a4:56:30:e8:17:6f,SSID,aalto,level,-84
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-83
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:0b:d1:c2,SSID,eduroam,level,-84
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-89
+BSSID,f4:4e:05:78:40:2f,SSID,aalto,level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-91
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-81
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-91
+BSSID,00:27:0d:0b:d1:ce,SSID,aalto open,level,-91
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-66
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-66
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-67
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-64
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-62
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-64
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-66
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-62
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-57
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-79
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-74
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-84
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-73
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-81
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-71
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-57
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-75
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-82
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-86
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-83
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-79
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:0b:d1:c2,SSID,eduroam,level,-81
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-89
+BSSID,f4:4e:05:78:40:2f,SSID,aalto,level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-89
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-78
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-89
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-69
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-75
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-75
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-78
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-84
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:bf:12,SSID,eduroam,level,-80
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-84
+BSSID,f4:4e:05:78:40:2d,SSID,eduroam,level,-93
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-78
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-82
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-81
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-88
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-88
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-66
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-66
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-67
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-64
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-62
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-64
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-66
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-62
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-57
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-79
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-74
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-84
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-73
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-81
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-71
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-57
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-75
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-82
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-86
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-83
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-79
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:0b:d1:c2,SSID,eduroam,level,-81
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-89
+BSSID,f4:4e:05:78:40:2f,SSID,aalto,level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-89
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-78
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-89
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-69
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-75
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-75
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-78
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-84
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:bf:12,SSID,eduroam,level,-80
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-84
+BSSID,f4:4e:05:78:40:2d,SSID,eduroam,level,-93
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-78
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-82
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-81
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-88
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-88
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-66
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-66
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-67
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-64
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-62
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-64
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-66
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-62
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-57
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-79
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-74
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-84
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-73
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-81
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-71
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-57
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-75
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-82
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-86
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-83
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-79
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:0b:d1:c2,SSID,eduroam,level,-81
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-89
+BSSID,f4:4e:05:78:40:2f,SSID,aalto,level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-89
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-78
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-89
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-69
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-75
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-75
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-78
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-84
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:bf:12,SSID,eduroam,level,-80
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-84
+BSSID,f4:4e:05:78:40:2d,SSID,eduroam,level,-93
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-78
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-82
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-81
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-88
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-88
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-66
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-66
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-67
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-64
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-62
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-64
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-66
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-62
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-57
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-79
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-74
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-84
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-73
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-81
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-71
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-57
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-75
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-82
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-86
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-83
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-79
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:0b:d1:c2,SSID,eduroam,level,-81
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-89
+BSSID,f4:4e:05:78:40:2f,SSID,aalto,level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-89
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-78
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-89
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-69
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-75
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-75
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-78
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-84
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:bf:12,SSID,eduroam,level,-80
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-84
+BSSID,f4:4e:05:78:40:2d,SSID,eduroam,level,-93
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-78
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-82
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-81
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-88
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-88
+BSSID,c8:d3:a3:0e:cd:cc,SSID,eMulTestBed,level,-72
+BSSID,24:01:c7:77:f4:71,SSID,aalto open,level,-66
+BSSID,d4:ca:6d:ff:31:87,SSID,NETLEAP,level,-66
+BSSID,24:01:c7:77:f4:72,SSID,eduroam,level,-67
+BSSID,08:1f:f3:b2:d0:ae,SSID,aalto open,level,-64
+BSSID,08:1f:f3:b2:d0:a2,SSID,eduroam,level,-62
+BSSID,08:1f:f3:b2:d0:ad,SSID,eduroam,level,-64
+BSSID,30:85:a9:6c:9b:e4,SSID,Ren_5G,level,-66
+BSSID,00:27:0d:2d:d0:71,SSID,aalto open,level,-72
+BSSID,08:1f:f3:b2:d0:af,SSID,aalto,level,-62
+BSSID,00:27:0d:2d:dd:c1,SSID,aalto open,level,-68
+BSSID,08:1f:f3:b2:d0:a1,SSID,aalto open,level,-57
+BSSID,24:01:c7:b8:d4:e1,SSID,aalto open,level,-79
+BSSID,a0:21:b7:9d:55:e9,SSID,OpenWrt,level,-74
+BSSID,f4:4e:05:78:40:21,SSID,aalto open,level,-78
+BSSID,a0:cf:5b:ca:b0:31,SSID,aalto open,level,-84
+BSSID,a0:cf:5b:ca:b0:32,SSID,eduroam,level,-73
+BSSID,00:27:0d:2e:f2:8d,SSID,eduroam,level,-76
+BSSID,00:27:0d:2e:f2:8e,SSID,aalto open,level,-74
+BSSID,00:27:0d:2d:d0:72,SSID,eduroam,level,-81
+BSSID,00:27:0d:2e:f2:81,SSID,aalto open,level,-71
+BSSID,30:85:a9:6c:9b:e2,SSID,Ren_2.4G,level,-57
+BSSID,ce:5d:4e:e6:3d:84,SSID,Koti_3D84,level,-75
+BSSID,00:27:0d:08:c3:21,SSID,aalto open,level,-76
+BSSID,00:27:0d:2d:dd:c2,SSID,eduroam,level,-67
+BSSID,00:27:0d:2d:dd:cf,SSID,aalto,level,-82
+BSSID,a0:cf:5b:fa:34:ef,SSID,aalto,level,-86
+BSSID,a4:56:30:e8:17:6d,SSID,eduroam,level,-83
+BSSID,00:27:0d:08:bf:1d,SSID,eduroam,level,-86
+BSSID,f4:4e:05:78:40:22,SSID,eduroam,level,-79
+BSSID,00:27:0d:0b:d1:cd,SSID,eduroam,level,-88
+BSSID,00:27:0d:0b:d1:c2,SSID,eduroam,level,-81
+BSSID,f4:4e:05:43:ca:bd,SSID,eduroam,level,-89
+BSSID,f4:4e:05:78:40:2f,SSID,aalto,level,-91
+BSSID,26:f7:e4:31:c2:c1,SSID,iPhone,level,-89
+BSSID,a4:56:30:e8:17:61,SSID,aalto open,level,-78
+BSSID,00:27:0d:08:bf:1e,SSID,aalto open,level,-89
+BSSID,24:01:c7:77:f4:70,SSID,aalto,level,-69
+BSSID,00:27:0d:2d:d0:7d,SSID,eduroam,level,-75
+BSSID,00:27:0d:08:c3:22,SSID,eduroam,level,-74
+BSSID,00:27:0d:2e:f2:80,SSID,aalto,level,-75
+BSSID,a4:56:30:e8:17:62,SSID,eduroam,level,-78
+BSSID,24:01:c7:b8:d4:ed,SSID,eduroam,level,-84
+BSSID,00:27:0d:2d:dd:cd,SSID,eduroam,level,-84
+BSSID,00:27:0d:08:bf:12,SSID,eduroam,level,-80
+BSSID,ee:43:f6:71:d2:a0,SSID,cloudlet_test_2g,level,-84
+BSSID,f4:4e:05:78:40:2d,SSID,eduroam,level,-93
+BSSID,00:27:0d:2d:d0:7e,SSID,aalto open,level,-78
+BSSID,00:27:0d:2d:dd:ce,SSID,aalto open,level,-82
+BSSID,00:27:0d:08:bf:11,SSID,aalto open,level,-81
+BSSID,24:01:c7:b8:d4:ee,SSID,aalto open,level,-88
+BSSID,f4:4e:05:43:ca:be,SSID,aalto open,level,-88
